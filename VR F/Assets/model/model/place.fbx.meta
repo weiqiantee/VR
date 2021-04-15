@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: d9b816c6757c6b240ba3715475536676
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 56
+    second: {fileID: 2800000, guid: 9dc371ee8a2d43c428b4bb87dde04f2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Apple_Texture_by_AGF81
+    second: {fileID: 2800000, guid: a4aab6fe9cd5a5a4fa1f68a215ccc932, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book Albedo
+    second: {fileID: 2800000, guid: e365953ce2a7008408b74d0b798707e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Book Normals
+    second: {fileID: 2800000, guid: b4c019e65ad4b4b479b6aac9ea026558, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stucco_Wall-05_basecolor
+    second: {fileID: 2800000, guid: 53e56dac953904444af828c8defc37d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stucco_Wall-05_normal
+    second: {fileID: 2800000, guid: 2ecf24c5b96c7e647bcb97474ad67bf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stucco_Wall-05_roughness
+    second: {fileID: 2800000, guid: 61ec582f22344ab4b9c9f650b6aa4434, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2800000, guid: f90433f567c5d8a4fa10486f5482f23f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood Floor
+    second: {fileID: 2800000, guid: 12e4f427393522645b82c41afc6cd9bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodPlanksBare0102_6_L
+    second: {fileID: 2800000, guid: 2e13a847dcd93784087a6374dc1820c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookfeatherdiffuse
+    second: {fileID: 2800000, guid: 8caee18414757c64c9f8966138c53336, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bookfeathernormal
+    second: {fileID: 2800000, guid: 03a048735b0f15e4684d22655c112edb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brown-wood-texture-background-hd-1024x576
+    second: {fileID: 2800000, guid: 0dad5f758e617454f9c931c78f9e0251, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candlediffuse
+    second: {fileID: 2800000, guid: 5e33d87dab94c424799024812becada0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: candlenormal
+    second: {fileID: 2800000, guid: 78f08d4efb2072042b4aa7f837522765, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lantern_Base_Color
+    second: {fileID: 2800000, guid: 06ac334eec85a9e40a8c5b88b4c734b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lantern_Normal_OpenGL
+    second: {fileID: 2800000, guid: 30280466510af464d85ab302beb9478d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plywood_02_basecolor
+    second: {fileID: 2800000, guid: b19e43097779ca143ab386c5320b8004, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plywood_02_normal
+    second: {fileID: 2800000, guid: 32a9b59dbecc74b4ba66e1266e7a0a71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scrollinkdiffuse
+    second: {fileID: 2800000, guid: 84ccc5f841b329944b28ad1c27ac1ebe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scrollnormal
+    second: {fileID: 2800000, guid: 86c5d8f150120e54c89d9112852a0edd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood _texture1582
+    second: {fileID: 2800000, guid: 095ed98e2f9ebf94d8d5066da35f3bd7, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
