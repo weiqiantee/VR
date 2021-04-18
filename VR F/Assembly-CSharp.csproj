@@ -64,6 +64,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Chest.cs" />
     <Compile Include="Assets\DoorGrabbable.cs" />
     <Compile Include="Assets\FollowPhysics.cs" />
     <Compile Include="Assets\Oculus\AudioManager\Scenes\Scripts\TestScript.cs" />
