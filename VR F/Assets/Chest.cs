@@ -12,18 +12,22 @@ public class Chest : MonoBehaviour
         curCoinCount = 0;
     }
 
+    private void Update()
+    {
+        if(curCoinCount >= totalCoinCount)
+        {
+            //win condition
+            Debug.Log("You win");
+        }
+    }
+
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Coin" && curCoinCount <= totalCoinCount)
+        if (other.tag == "Coin" && curCoinCount <= totalCoinCount)
         {
             curCoinCount++;
             Destroy(other.gameObject);
-            Debug.LogError(curCoinCount);
-        }
-        else
-        {
-            //Win condition here
-            Debug.Log("You have won");
+            Debug.Log(curCoinCount);
         }
     }
 }
