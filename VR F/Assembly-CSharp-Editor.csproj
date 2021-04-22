@@ -663,21 +663,6 @@
       <Name>Oculus.Platform.Editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{38a95ab4-9cf6-d072-feb4-5e3c2e0b5810}</Project>
-      <Name>Oculus.VR.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{8d1bbf05-9fb1-bdaf-43e8-3c95e361e7f7}</Project>
-      <Name>Oculus.VR.Scripts.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{c9853c3e-c298-c8a6-0d78-f85b236322ca}</Project>
-      <Name>Oculus.VR</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

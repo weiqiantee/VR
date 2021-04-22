@@ -179,18 +179,6 @@
      <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Scripts\OVROverlaySample.cs" />
      <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Scripts\OVROverlayCanvas.cs" />
      <Compile Include="Assets\Oculus\SampleFramework\Usage\StartScene\Scripts\StartMenu.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scenes\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPAmbisonicsNative.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPAudioSource.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPProfiler.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationGeometry.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationInterface.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationMaterial.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPPropagationSettings.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPSettings.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\ONSPVersion.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\OculusSpatializerUnity.cs" />
-     <Compile Include="Assets\Oculus\Spatializer\scripts\helpers\ONSPReflectionZone.cs" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
      <None Include="Assets\Oculus\Avatar\Resources\Materials\AvatarMaterialStateShader.cginc" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\ButtonGlow.shader" />
@@ -803,21 +791,6 @@
     <ProjectReference Include="Oculus.Platform.Editor.csproj">
       <Project>{5daa72d2-0019-c8d8-4200-7c93bce7c124}</Project>
       <Name>Oculus.Platform.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{38a95ab4-9cf6-d072-feb4-5e3c2e0b5810}</Project>
-      <Name>Oculus.VR.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{8d1bbf05-9fb1-bdaf-43e8-3c95e361e7f7}</Project>
-      <Name>Oculus.VR.Scripts.Editor</Name>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{c9853c3e-c298-c8a6-0d78-f85b236322ca}</Project>
-      <Name>Oculus.VR</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
